@@ -7,6 +7,9 @@ set nocompatible
 set number
 set relativenumber
 
+" Automaticalyy wrap text taht extends beyond the screen length
+set wrap
+
 " Status bar
 set laststatus=2
 
