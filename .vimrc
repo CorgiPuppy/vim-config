@@ -41,3 +41,6 @@ set wildmode=list:longest
 
 filetype plugin on
 set omnifunc=syntaxcomplete#Complete
+
+" Fold based on indentation level
+set foldmethod=indent
