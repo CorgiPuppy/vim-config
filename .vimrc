@@ -13,8 +13,8 @@ set wrap
 " Status bar
 set laststatus=2
 
-set shiftwidth=4
-set tabstop=4
+set shiftwidth=2
+set tabstop=2
 
 set cursorcolumn 
 highlight CursorColumn ctermbg=242 guibg=Grey40
